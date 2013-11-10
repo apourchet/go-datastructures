@@ -1,4 +1,4 @@
-go-datastructures
-=================
+datastructures
+==============
 
-Datastructure implementations for Golang
+Data Structure implementations in different languages
