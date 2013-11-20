@@ -1,4 +1,4 @@
 datastructures
 ==============
 
-Data Structure implementations in different languages
+Data Structure implementations in Golang 
